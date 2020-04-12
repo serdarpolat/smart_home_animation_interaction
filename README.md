@@ -1,7 +1,7 @@
 # Screen
 ### Click on screenshot to watch Youtube video
 
-[![IMAGE ALT TEXT HERE](smart_home.jpg.jpg)](http://www.youtube.com/watch?v=a3UhpMgIGDk)
+[![IMAGE ALT TEXT HERE](smart_home.jpg)](http://www.youtube.com/watch?v=a3UhpMgIGDk)
 
 ## Getting Started
 
